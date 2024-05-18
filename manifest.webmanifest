@@ -1,0 +1,18 @@
+{
+  "name": "Simona Nisticò",
+  "short_name": "Simona Nisticò",
+  "lang": "en-us",
+  "theme_color": "#1565c0",
+  "background_color": "#1565c0",
+  "icons": [{
+    "src": "/media/icon_hu7d0b0f6b82703fe7e11d04e2c5e92e9b_26914_192x192_fill_lanczos_center_3.png",
+    "sizes": "192x192",
+    "type": "image/png"
+    }, {
+    "src": "/media/icon_hu7d0b0f6b82703fe7e11d04e2c5e92e9b_26914_512x512_fill_lanczos_center_3.png",
+    "sizes": "512x512",
+    "type": "image/png"
+     }],
+  "display": "standalone",
+  "start_url": "/?utm_source=web_app_manifest"
+}
